@@ -8,5 +8,5 @@ ACL启动器核心
 <br>发送邮件至：ZirranYa@outlook.com
 <br>并抄送至：16774996@qq.com
 
--其他链接
+- 其他链接
 <br>[ACL启动器问题吸尘器](https://github.com/MoYstudio/ACL-Issue-vacuum-cleaner)
